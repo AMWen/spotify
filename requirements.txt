@@ -1,1 +1,4 @@
 spotipy==2.19.0
+ipykernel==6.9.2 
+pyyaml==6.0
+pandas==1.4.1
